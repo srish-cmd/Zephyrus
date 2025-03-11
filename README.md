@@ -106,7 +106,7 @@ The project was executed in distinct phases—from hardware assembly to software
 
 - **Python 3.x**  
 - Required Python libraries (see `requirements.txt`), which may include:
-  - TensorFlow or PyTorch (depending on your implementation)
+  - TensorFlow or PyTorch
   - OpenCV
   - NumPy
 
